@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @albagc
-- 👩‍💻 I’m a biomedical engineer focused on data science research and modelling applied to biomedical problems.
-- ✍ I’m currently writing my thesis as an statistics PhD candidate, mainly about the use of latent variable based models (typical in industry or in chemometrics) to several biomedical engineering real problems. But I'm also working with black box/non-linear models.
-- 🔥 I’m looking for postdoc positions related to mathematical or data science applications in biomedical fields. 
+- 👋 Hi, I’m @albagc, I work as an Open Data Research Associate in the NCI (Dublin, Ireland).
+- 👩‍💻 I’m a researcher focused on Biomedical Data Science.
+- ✍ I’m finishing my thesis as an statistics PhD candidate in the UPV (Valencia, Spain), with contributions mainly about the use of latent variable based models to biomedical data science.
 - 🖖 Reach me via:
-  -  E-mail (albagoncebrian@gmail.com; algonceb@upv.es) 
+  -  E-mail (albagcphd@protonmail.com; algonceb@upv.es; Alba.Gonzalez-Cebrian@ncirl.ie) 
   -  LinkedIn (https://www.linkedin.com/in/alba-gonzález-cebrián-67bab010b/)  
   -  Research Gate (<a href="https://www.researchgate.net/profile/Alba-Gonzalez-Cebrian">Alba González-Cebrián on ResearchGate</a>).
 
